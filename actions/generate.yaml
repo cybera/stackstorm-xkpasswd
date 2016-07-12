@@ -1,0 +1,6 @@
+---
+name: generate
+runner_type: run-local
+description: Generate an xkpasswd
+enabled: true
+entry_point: src/generate.sh
