@@ -3,6 +3,6 @@ name: xkpasswd
 description: Generate an xkpasswd
 keywords:
   - xkpasswd
-version: 0.1
+version: 0.1.0
 author: Cybera Sysadmin
 email: sysadmin@cybera.ca
