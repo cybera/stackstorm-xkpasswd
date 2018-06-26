@@ -2,8 +2,6 @@
 
 ## Installation
 
-* Requires the HSXKPasswd Perl module:
-
 ```shell
-$ cpan Crypt::HSXKPasswd
+$ st2 pack install https://github.com/cybera/stackstorm-xkpasswd
 ```
